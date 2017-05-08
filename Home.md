@@ -1,3 +1,3 @@
-Tartaros is a mod aiming at improving Minecraft's death system, along with completing the Nether world and adding new game mechanics based on souls.
+Welcome to the Dissolution wiki !
 
-The official wiki is here : https://dissolution.wikia.com
+Tartaros is a mod aiming at improving Minecraft's death system, along with completing the Nether world and adding new game mechanics based on souls.
