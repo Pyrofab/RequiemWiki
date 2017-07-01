@@ -1,0 +1,1 @@
+Dissolution allows heavy customisation through the config file.
