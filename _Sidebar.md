@@ -7,5 +7,11 @@
 
 <img src="https://github.com/Pyrofab/Dissolution/blob/1.12/src/main/resources/assets/dissolution/textures/items/iron_scythe.png" width="16" height="16" alt="Scythes"/>[[Scythes|Scythes]]
 
+![Beetle of eternity](https://github.com/Pyrofab/Dissolution/blob/1.12/src/main/resources/assets/dissolution/textures/items/beetle_of_eternity.png)[[Beetle of Eternity|Beetle-of-Eternity]]
+
+![Base Resources](https://github.com/Pyrofab/Dissolution/blob/1.12/src/main/resources/assets/dissolution/textures/items/ectoplasm.png)[[Base Resources|Base-Resources]]
+
 ## Entities
 [[Lost Soul|Lost-Soul]]
+
+[[Player Corpse|Player-Corpse]]

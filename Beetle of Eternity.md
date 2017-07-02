@@ -1,0 +1,3 @@
+This jewel from another time will preserve your [[corpse|Player-Corpse]] upon death. When you die with a beetle of eternity in your inventory, the resulting corpse will never decay. If the [[config allows it|Configuration#playerbodiesholdinventories]], this corpse will also act as a gravestone, holding your stuff until you come back.
+
+This item is currently crafted with an iron ingot and an [[ectoplasma|Base-Resources#ectoplasma]] in any shape, however this recipe is temporary.
