@@ -1,0 +1,5 @@
+While the dark magic that allows undead entities to walk and try to eat your face is still of unknown nature, this mysterious eye seems to tap into it to preserve their corpses a little bit longer. 
+
+When an undead mob is killed by a player with said eye in its inventory, a body is created. This body will quickly decay unless the player uses the Eye to give it a soul. In this case, the body will rise again and attack anything that might endanger the life of his master. Due to the crude nature of the crafted artifact however, such minions will only last for approximately 5 minutes before disappearing into a cloud of ashes. Exposition to the sun will reduce their already short lifespan.
+
+The equipment of these minions can be changed at will, in the same way one would use an armorstand. As they will retain the equipment they had upon death, it is a very efficient way of reliably getting otherwise rare drops.
