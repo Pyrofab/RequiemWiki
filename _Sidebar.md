@@ -1,10 +1,10 @@
-[[Home|Home.md]]
+[[Home|Home]]
 _ _ _
-[[Configuration|Configuration.md]]
+[[Configuration|Configuration]]
 _ _ _
 Items
-* [[Scythes|Scythes.md]]
+* [[Scythes|Scythes]]
 
 _ _ _
 Entities
-* [[Lost Soul|Lost-Soul.md]]
+* [[Lost Soul|Lost-Soul]]
