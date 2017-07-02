@@ -1,0 +1,1 @@
+Dissolution is a mod created by the Ladysnake team. Source is available [here](https://github.com/Pyrofab/Dissolution)
