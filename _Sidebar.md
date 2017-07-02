@@ -3,7 +3,7 @@ _ _ _
 [[Configuration|Configuration]]
 _ _ _
 Items
-* [[Scythes|Scythes]]
+* ![Scythes](https://github.com/Pyrofab/Dissolution/blob/1.12/src/main/resources/assets/dissolution/textures/items/grand_faux.png)[[Scythes|Scythes]]
 
 _ _ _
 Entities
