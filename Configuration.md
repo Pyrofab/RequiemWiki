@@ -9,7 +9,7 @@ Most of the available options should be fairly understandable in the config file
 The (currently) most customisable part of the mod. 
 
 ## WoWLikeRespawn
-This setting forces a corpse to spawn when a player dies. This corpse will last 5 minutes, which means the player will have to reach it as a soul in this lapse of time if they want to get their stuff back. They still have all the other respawn options available. This setting should make stuff retrieval easier than vanilla (as you cannot on the way to your stuff).
+This setting forces a corpse to spawn when a player dies. This corpse will last 5 minutes, which means the player will have to reach it as a soul in this lapse of time if they want to get their stuff back. They still have all the other respawn options available. This setting should make stuff retrieval easier than vanilla (as you cannot die on the way to your stuff).
 values : [true, false]
 default: disabled
 
