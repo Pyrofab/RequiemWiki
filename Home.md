@@ -2,7 +2,7 @@ Welcome to the Dissolution wiki !
 
 # About
 
-Dissolution is a mod aiming at improving Minecraft's death system, along with completing the Nether world and adding new game mechanics based on souls. Currently, its main feature is the overhaul of the respawn mechanic, replacing the old one with something more gameplay-centered and highly configurable.
+Dissolution is a mod aiming at improving Minecraft's death system, adding new game mechanics based on alchemy and soul manipulation. Currently, its main feature is the overhaul of the respawn mechanic, replacing the old one with something more gameplay-centered and highly configurable.
 
 ## Modpacks policy
 You can add Dissolution to any modpack as long as you credit its authors.
@@ -16,8 +16,8 @@ Dissolution is in a beta state and its design is still heavily discussed. As suc
 <details>
   <summary>Functionalities that are no longer in the mod</summary>
   <h1>Items</h1>
-  <img src="https://github.com/Pyrofab/Dissolution/blob/1.12/src/main/resources/assets/dissolution/textures/items/beetle_of_eternity.png" alt="Beetle of Eternity"/>[[Beetle of Eternity|removed/Beetle-of-Eternity]]
+  <img src="https://github.com/Pyrofab/Dissolution/blob/1.12/src/main/resources/assets/dissolution/textures/items/beetle_of_eternity.png" alt="Beetle of Eternity"/>[[Beetle of Eternity|Beetle-of-Eternity]]
 
   ## Entities
-  [[Lost Soul|removed/Lost-Soul]]
+  [[Lost Soul|Lost-Soul]]
 </details>
