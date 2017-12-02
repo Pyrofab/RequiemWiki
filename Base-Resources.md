@@ -7,7 +7,7 @@ Molten rocks come from a fragmented magma block. They can be cooled down in a wa
 Cinnabar is a shiny mineral that you can heat up to extract mercury. It can be found as residues in igneous rocks.
 
 ## ![Mercury](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/jars/mercury_jar.png)Mercury
-This is the metal you strive for. It allows you to materialize a new body when incorporeal. Bathing in it wouldn't be a great idea though.
+This is the metal you strive for. It allows you to materialize a new body when incorporeal. Bathing in it wouldn't be a great idea though. You can obtain it by melting cinnabar powder in a [[Crucible|Crucible]].
 
 ## ![Sulfur](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/mineral/sulfur.png)Sulfur
 This crystal is associated with fire, earth and the Body. It can be found as residues in mineral coal.
