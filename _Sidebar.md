@@ -7,9 +7,9 @@
 * [[Mortar|Mortar]]
 
 ## Items
-![Base Resources](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/mineral/cinnabar.png)[[Base Resources|Base-Resources]]
+![Base Resources](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/mineral/cinnabar.png)[[Base Resources|Base-Resources]]
 
-![Jars](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/jars/glass_jar.png)[[Jars|Jars]]
+![Jars](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/jars/glass_jar.png)[[Jars|Jars]]
 
 ![Eye of the Undead](https://github.com/Pyrofab/Dissolution/blob/1.12/src/main/resources/assets/dissolution/textures/items/eye_of_the_undead/eye_of_the_undead_closed.png)[[Eye of the Undead|Eye-of-the-Undead]]
 
