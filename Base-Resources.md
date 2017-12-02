@@ -1,18 +1,18 @@
 Dissolution uses a few basic resources for most of its crafting.
 
-## ![Molten Rock](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/mineral/molten_rock.png)![Igneous Rock](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/mineral/igneous_rock.png)Molten and Igneous Rocks
+## ![Molten Rock](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/mineral/molten_rock.png)![Igneous Rock](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/mineral/igneous_rock.png)Molten and Igneous Rocks
 Molten rocks come from a fragmented magma block. They can be cooled down in a water-filled crucible, giving igneous rocks.
 
-## ![Cinnabar](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/mineral/cinnabar.png)Cinnabar
+## ![Cinnabar](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/mineral/cinnabar.png)Cinnabar
 Cinnabar is a shiny mineral that you can heat up to extract mercury. It can be found as residues in igneous rocks.
 
-## ![Mercury](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/jars/mercury_jar.png)Mercury
+## ![Mercury](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/jars/mercury_jar.png)Mercury
 This is the metal you strive for. It allows you to materialize a new body when incorporeal. Bathing in it wouldn't be a great idea though.
 
-## ![Sulfur](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/mineral/sulfur.png)Sulfur
+## ![Sulfur](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/mineral/sulfur.png)Sulfur
 This crystal is associated with fire, earth and the Body. It can be found as residues in mineral coal.
 
-## ![Halite](https://github.com/Pyrofab/Dissolution/blob/experimental/src/main/resources/assets/dissolution/textures/items/mineral/halite.png)Halite
+## ![Halite](https://github.com/Pyrofab/Dissolution/blob/1.12.2/src/main/resources/assets/dissolution/textures/items/mineral/halite.png)Halite
 This cousin of the salt is associated with... not much. It will probably be removed soon actually. It can be found as residues in clay.
 
 <details>
