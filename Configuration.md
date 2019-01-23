@@ -61,7 +61,9 @@ Soul players may find themselves stuck because of their limited abilities. Disso
 ## invisibleGhosts
 
 By default, ghosts will be translucid and the mod will simulate technical invisibility through unconventional means. If you don't want ghosts to be seen by other players or if other mods don't interact well, you can enable vanilla invisibility for ghost players.
+
 **values :** [true, false]
+
 **default :** false
 
 ## soulInteractableBlocks
@@ -69,20 +71,27 @@ By default, ghosts will be translucid and the mod will simulate technical invisi
 A whitelist of blocks that ghosts can use or break. Note that special blocks from Dissolution do not need to be in this whitelist. 
 
 **values :** a list of blocks that a ghost player will be able to interact with.
+
 **default :** lever, glass_pane
 
 # Respawn
 ## respawnInNether
 If this setting is enabled, all players will get teleported to the nether upon respawn. In this case, going to the origin of the world will teleport them to their spawnpoint with a new body.
+
 **values :** [true, false]
+
 **default :** false
 
 ## respawnDimension
 This setting is only used if `respawnInNether` is set to true. It allows modpack makers to choose a dimension for respawning as a soul. You could, for example, use it with RFTools Dimensions to create a custom judgement space or to give some kind of special challenge before letting the player resume their game.
+
 **values :** the dimension ID you want players to respawn into
+
 **default :** -1
 
 ## skipDeathScreen
 A boon for the impatients, if this setting is enabled, players will skip the death screen and become a ghost at the place and time of their death. Death-related logic is still applied, however custom respawn behaviour from other mods is not supported. To prevent absolute cheese, using this with WoWLikeRespawn will teleport the player to their spawnpoint.
+
 **values :** [true, false]
+
 **default :** true
